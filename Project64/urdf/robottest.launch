@@ -1,0 +1,7 @@
+<launch>
+  	<!-- Load URDF into the ROS parameter server -->
+  	<param name="robot_description" textfile="$(find robot_description)/urdf/robot.urdf"/>
+
+</launch>
+
+
