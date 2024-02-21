@@ -95,9 +95,7 @@ rosdep update
 ```
 **Install Arduino IDE**
 
-![MasterHead](https://wiki.arduinodiscord.cc/logo/arduino_logo.gif)
-
-![MasterHead](https://www.robotistan.com/Data/EditorFiles/Urun_bundle/ard1.gif)
+![MasterHead](https://wiki.arduinodiscord.cc/logo/arduino_logo.gif)![MasterHead](https://www.robotistan.com/Data/EditorFiles/Urun_bundle/ard1.gif)
 
 **https://www.youtube.com/watch?v=Z8aYYSk4i9o&t=261**
 
