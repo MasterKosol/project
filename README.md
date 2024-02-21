@@ -109,6 +109,16 @@ Now you will see the rosserial arduino library under examples> examples from cus
 ```
 Verify and upload. That it is.
 
+**Installing the Software**
+
+**Installing Binaries on the ROS workstation**
+
+You can install rosserial for Arduino by running: 
+```
+sudo apt-get install ros-${ROS_DISTRO}-rosserial-arduino
+sudo apt-get install ros-${ROS_DISTRO}-rosserial
+```
+
 **Install vscode**
 
 **Install Using the GUI**
