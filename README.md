@@ -143,3 +143,9 @@ Click the **Show Applications** button and locate Visual Studio Code in the app 
 ![MasterHead](https://phoenixnap.com/kb/wp-content/uploads/2022/05/open-vscode-ubuntu.png)
 Click the app to open it and start customizing the appearance, adding extensions for the programming languages you need, etc.
 ![MasterHead](https://phoenixnap.com/kb/wp-content/uploads/2022/05/get-started-with-vscode-ubuntu.png)
+
+**How to opening launch and RViZ ModelRobot**
+```
+paradon@kosol:~$ roslaunch Project64 Joint_node.launch model:='$(find Project64)/urdf/robot.urdf'
+```
+
