@@ -1,6 +1,6 @@
 **Install Ros**
 
-![MasterHead](https://miro.medium.com/v2/resize:fit:800/0*Ph6z0gEq-uyEpAoL.png)
+![MasterHead]([https://miro.medium.com/v2/resize:fit:800/0*Ph6z0gEq-uyEpAoL.png](https://media.licdn.com/dms/image/D5612AQGAh7Y8yCgjOg/article-cover_image-shrink_720_1280/0/1674818999890?e=2147483647&v=beta&t=3oVv2l3vFBiHVwNZdVPxGWqsnFO4CrW3fGixox_7l4c))
 
 **1.Installation**
 
@@ -95,7 +95,7 @@ rosdep update
 ```
 **Install Arduino IDE**
 
-![MasterHead](https://image.makewebeasy.net/makeweb/m_1920x0/Yrhd97Z9N/DATA/Arduino_logo1.png)
+![MasterHead]([https://image.makewebeasy.net/makeweb/m_1920x0/Yrhd97Z9N/DATA/Arduino_logo1.png](https://www.robotistan.com/Data/EditorFiles/Urun_bundle/ard1.gif))
 
 **https://www.youtube.com/watch?v=Z8aYYSk4i9o&t=261**
 
