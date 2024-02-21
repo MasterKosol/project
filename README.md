@@ -91,3 +91,6 @@ With the following, you can initialize rosdep.
 sudo rosdep init
 rosdep update
 ```
+**Install Arduino IDE**
+
+**https://www.youtube.com/watch?v=Z8aYYSk4i9o&t=261**
