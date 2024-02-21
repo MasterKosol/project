@@ -105,3 +105,9 @@ Now you will see the rosserial arduino library under examples> examples from cus
 #include <std_msgs/String.h>
 ```
 Verify and upload. That it is.
+
+**Install vscode**
+
+**Install Using the GUI**
+
+Follow the steps below to install vscode using Ubuntu Software Center:
