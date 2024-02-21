@@ -94,3 +94,8 @@ rosdep update
 **Install Arduino IDE**
 
 **https://www.youtube.com/watch?v=Z8aYYSk4i9o&t=261**
+
+**Install rosserial_lib in arduino IDE**
+
+Reboot the computer, open the arduino IDE, you would not see the new ros_lib in the example manual. You need goto sketch>include library>Manager Libraries>Library Manager, search for "rosserial" and install.
+![MasterHead](https://raw.githubusercontent.com/ctsuu/Arduino-in-ROS/master/rosserial_arduino_library.png)
