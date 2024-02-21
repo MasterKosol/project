@@ -146,6 +146,6 @@ Click the app to open it and start customizing the appearance, adding extensions
 
 **How to opening launch and RViZ ModelRobot**
 ```
-paradon@kosol:~$ roslaunch Project64 Joint_node.launch model:='$(find Project64)/urdf/robot.urdf'
+roslaunch Project64 Joint_node.launch model:='$(find Project64)/urdf/robot.urdf'
 ```
 
