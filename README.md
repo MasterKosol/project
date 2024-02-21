@@ -99,3 +99,9 @@ rosdep update
 
 Reboot the computer, open the arduino IDE, you would not see the new ros_lib in the example manual. You need goto sketch>include library>Manager Libraries>Library Manager, search for "rosserial" and install.
 ![MasterHead](https://raw.githubusercontent.com/ctsuu/Arduino-in-ROS/master/rosserial_arduino_library.png)
+Now you will see the rosserial arduino library under examples> examples from custom libraries. Open any of the example, make sure the following code is there:
+```
+#include <ros.h>
+#include <std_msgs/String.h>
+```
+Verify and upload. That it is.
