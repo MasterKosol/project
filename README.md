@@ -111,3 +111,9 @@ Verify and upload. That it is.
 **Install Using the GUI**
 
 Follow the steps below to install vscode using Ubuntu Software Center:
+
+**1. Open Ubuntu Software Center**
+
+Click the **Show Applications** button and open the **Ubuntu Software** Center app.
+![MasterHead](https://phoenixnap.com/kb/wp-content/uploads/2022/05/open-ubuntu-software-center.png)
+**2. Find Visual Studio Code**
