@@ -117,3 +117,16 @@ Follow the steps below to install vscode using Ubuntu Software Center:
 Click the **Show Applications** button and open the **Ubuntu Software** Center app.
 ![MasterHead](https://phoenixnap.com/kb/wp-content/uploads/2022/05/open-ubuntu-software-center.png)
 **2. Find Visual Studio Code**
+
+Click the **Search** button, and type vscode in the search bar. Click **code** on the list to open the app page.
+![MasterHead](https://phoenixnap.com/kb/wp-content/uploads/2022/05/find-vscode-in-ubuntu-software-center.png)
+**3. Install vscode**
+
+Click the **Install** button and, when prompted, type in your administrator password to start the installation.
+![MasterHead](https://phoenixnap.com/kb/wp-content/uploads/2022/05/install-vscode-using-the-gui.png)
+**How to Start vscode on Ubuntu?**
+
+Click the **Show Applications** button and locate Visual Studio Code in the app list.
+![MasterHead](https://phoenixnap.com/kb/wp-content/uploads/2022/05/open-vscode-ubuntu.png)
+Click the app to open it and start customizing the appearance, adding extensions for the programming languages you need, etc.
+![MasterHead](https://phoenixnap.com/kb/wp-content/uploads/2022/05/get-started-with-vscode-ubuntu.png)
