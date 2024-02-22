@@ -146,6 +146,13 @@ Click the app to open it and start customizing the appearance, adding extensions
 
 **How to opening launch and RViZ ModelRobot**
 ```
+cd ~/catkin_ws/src
+git clone https://github.com/MasterKosol/project.git
+cd ..
+catkin_make
+source devel/setup.bash
 roslaunch Project64 Joint_node.launch model:='$(find Project64)/urdf/robot.urdf'
 ```
+**Thanks for that. Good luck.**
+
 
